@@ -5,25 +5,24 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Python+Developer;Building+with+Flet+%26+SQLite;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Python+Developer;Always+learning%2C+always+building." alt="Typing SVG" />
 </div>
 
 <br/>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 ### Desarrollador de Software | Apasionado por la IA y Soluciones Prácticas
-- 🐍 Especialista en **Python**, creando herramientas standalone robustas.
-- 🎯 Enfocado en crear software eficiente, intuitivo y de alta calidad.
-- 🎓 Estudiante de Tecnicatura Universitaria en Programación (UTN).
+-  Enfocado en crear software eficiente, intuitivo y de alta calidad.
+-  Estudiante de Tecnicatura Universitaria en Programación (UTN).
 Combinando la formación académica reforzando bases lógicas y arquitecturales con un aprendizaje autodidacta constante para dominar nuevas tecnologías.
 
 ```python
 dev = {
     "nombre":      "Pablo Salinas",
-    "formacion":   "Tecnación Univ. en Programación @ UTN 🎓",
-    "estilo":      "Autodidacta orientado a resultados 🚀",
+    "formacion":   "Tecnación Univ. en Programación @ UTN",
+    "estilo":      "Autodidacta orientado a resultados",
     "stack":       ["Python", "Flet", "SQLite"],
     "aprendiendo": ["Nuevas APIs de IA", "Optimización de Ejecutables"],
     "estado":      "Abierto a desafíos técnicos"
@@ -32,25 +31,25 @@ dev = {
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 <div align="center">
 
-### 🎨 Frontend & Desktop
+### Frontend & Desktop
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-7C3AED?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🖥️ Backend & Frameworks
+### Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Bases de Datos
+### Bases de Datos
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Otros Lenguajes & Herramientas
+### Otros Lenguajes & Herramientas
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -63,7 +62,7 @@ dev = {
 
 ---
 
-## 🚀 Proyecto Destacado
+## Proyecto Destacado
 
 <div align="center">
 
@@ -75,7 +74,7 @@ dev = {
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PabloSalinasDev&show_icons=true&theme=radical" alt="Stats" />
@@ -87,12 +86,12 @@ dev = {
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablo-salinas-3a14a3207)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablodev82@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-salinas-3a14a3207)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pablodev82@outlook.com)
 
 </div>
 
