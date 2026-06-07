@@ -68,20 +68,8 @@ dev = {
 
 | Proyecto | Descripción |
 |--------|-------------|
-| 🌐 **[TranslatorProAI](https://github.com/PabloSalinasDev/TranslatorProAI)** | App de traducción con IA desarrollada en Python |
+| **[GitAI-CLI](https://github.com/PabloSalinasDev/GitAI-CLI)** | App de generación de commit con IA local desarrollada en Python |
 
-</div>
-
----
-
-## Estadísticas de GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PabloSalinasDev&show_icons=true&theme=radical" alt="Stats" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PabloSalinasDev&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="160"/>
 </div>
 
 ---
