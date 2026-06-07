@@ -21,7 +21,7 @@ Combinando la formación académica reforzando bases lógicas y arquitecturales 
 ```python
 dev = {
     "nombre":      "Pablo Salinas",
-    "formacion":   "Tecnación Univ. en Programación @ UTN",
+    "formación":   "Tecnicatura Univ. en Programación @ UTN",
     "estilo":      "Autodidacta orientado a resultados",
     "stack":       ["Python", "Flet", "SQLite"],
     "aprendiendo": ["Nuevas APIs de IA", "Optimización de Ejecutables"],
@@ -62,7 +62,7 @@ dev = {
 
 ---
 
-## Proyecto Destacado
+## Último Proyecto Realizado
 
 <div align="center">
 
@@ -84,7 +84,7 @@ dev = {
 </div>
 
 <p align="center"> 
-  ¡Gracias por pasar! Si te interesa mi trabajo, pegale una mirada a mis repositorios.
+  ¡Gracias por pasar! No dudes en explorar mis repositorios.
 </p>
 
 <!-- Footer -->
