@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pablo%20Salinas&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pablo%20Salinas&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Python+Developer;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+building." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -13,8 +13,8 @@
 ---
 
 ## Sobre mí
-### Desarrollador de Software | Apasionado por la IA y Soluciones Prácticas
--  Enfocado en crear software eficiente, intuitivo y de alta calidad.
+### Desarrollador de Software
+-  Enfocado en crear software eficiente, intuitivo y de calidad.
 -  Estudiante de Tecnicatura Universitaria en Programación (UTN).
 Combinando la formación académica reforzando bases lógicas y arquitecturales con un aprendizaje autodidacta constante para dominar nuevas tecnologías.
 
