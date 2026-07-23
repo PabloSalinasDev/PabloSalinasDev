@@ -16,14 +16,14 @@
 ### Desarrollador de Software
 -  Enfocado en crear software eficiente, intuitivo y de calidad.
 -  Estudiante de Tecnicatura Universitaria en Programación (UTN).
-Combinando la formación académica reforzando bases lógicas y arquitecturales con un aprendizaje autodidacta constante para dominar nuevas tecnologías.
+Combinando la formación académica con un aprendizaje autodidacta constante para dominar nuevas tecnologías.
 
 ```python
 dev = {
     "nombre":      "Pablo Salinas",
-    "formación":   "Tecnicatura Univ. en Programación @ UTN",
+    "formación":   "Técnico Univ. en Programación @ UTN",
     "estilo":      "Autodidacta orientado a resultados",
-    "stack":       ["Python", "Flet", "SQLite"],
+    "stack":       ["Python", "Flet", "Django", "PostgreSQL"],
     "aprendiendo": ["Nuevas APIs de IA", "Optimización de Ejecutables"],
     "estado":      "Abierto a desafíos técnicos"
 }
@@ -43,14 +43,12 @@ dev = {
 ### Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Bases de Datos
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Otros Lenguajes & Herramientas
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
